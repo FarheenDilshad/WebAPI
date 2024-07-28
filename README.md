@@ -20,7 +20,7 @@ The `AuthController` contains the login, registration, and test APIs we are usin
 
         ```json
         {
-            "userName": "adityaoberai1",
+            "userName": "Farheen,
             "password": "test123"
         }
         ```
@@ -29,8 +29,8 @@ The `AuthController` contains the login, registration, and test APIs we are usin
 
         ```json
         {
-            "userName": "adityaoberai1",
-            "name": "Aditya",
+            "userName": "Farheen,
+            "name": "Farheen",
             "role": "Everyone",
             "isActive": true,
             "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiYWRpdHlhb2JlcmFpMSIsImdpdmVuX25hbWUiOiJBZGl0eWEiLCJyb2xlIjoiRXZlcnlvbmUiLCJuYmYiOjE2NjA3NzA0NDQsImV4cCI6MTY2MDc3MjI0NCwiaWF0IjoxNjYwNzcwNDQ0fQ.20KEe53MsDeapYk0EkeayfZqmsyPSuVOVBzsHpmFMS4",
@@ -46,8 +46,8 @@ The `AuthController` contains the login, registration, and test APIs we are usin
 
         ```json
         {
-            "name": "Aditya",
-            "userName": "adityaoberai1",
+            "name": "Farheen",
+            "userName": "Farheen",
             "password": "test123",
             "role": "Everyone"
         }
@@ -57,8 +57,8 @@ The `AuthController` contains the login, registration, and test APIs we are usin
 
         ```json
         {
-            "userName": "adityaoberai1",
-            "name": "Aditya",
+            "userName": "Farheen",
+            "name": "Farheen",
             "role": "Everyone",
             "isActive": true,
             "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiYWRpdHlhb2JlcmFpMSIsImdpdmVuX25hbWUiOiJBZGl0eWEiLCJyb2xlIjoiRXZlcnlvbmUiLCJuYmYiOjE2NjA3NzAzNjAsImV4cCI6MTY2MDc3MjE2MCwiaWF0IjoxNjYwNzcwMzYwfQ.oCK_udTh83F-OM7yLYK7NBQa8basKTVQpMF3GUYtUtA",
@@ -80,8 +80,8 @@ The `AuthController` contains the login, registration, and test APIs we are usin
 
         ```json
         {
-            "name": "adityaoberai1",
-            "given_name": "Aditya",
+            "name": "Farheen",
+            "given_name": "Farheen",
             "role": "Everyone",
             "nbf": "1660770444",
             "exp": "1660772244",
